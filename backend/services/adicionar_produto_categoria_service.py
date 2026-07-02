@@ -1,6 +1,5 @@
 from models import Categoria, Produto
 
-
 class AdicionarProdutoCategoriaService:
     def executar(self, categoria_id, dados):
         categoria = Categoria.buscar_por_id(categoria_id)
