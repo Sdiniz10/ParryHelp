@@ -1,4 +1,4 @@
-# Precisa disso tudo?
+# AVISO GLEISON: Precisa disso tudo?
 from .criar_avaliacao_service import CriarAvaliacaoService
 from .login_usuario_service import LoginUsuarioService
 from .cadastrar_usuario_service import CadastrarUsuarioService
